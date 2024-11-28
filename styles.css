@@ -1,0 +1,88 @@
+/* styles.css para la Página Principal */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f51d1d; 
+}
+
+header {
+    background-color: #000000; 
+    color: #07070762;
+    padding: 20px 0;
+}
+
+h1, h2 {
+    margin: 0;
+}
+
+.navbar {
+    background-color: #000000; 
+}
+
+.nav-link {
+    color: #ffffff;
+}
+
+.main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+footer {
+    background-color: #463939;
+    color: #443838;
+    text-align: center;
+    padding: 10px 0;
+}
+
+.img-fluid {
+    border-radius: 8px; 
+}
+
+/* styles.css para la Página del Creador */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #6b6b6b8e; /* Color de fondo suave */
+}
+
+header {
+    background-color: #0a0a0a; /* Color oscuro */
+    color: #f8f8f8;
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.profile-img {
+    display: block;
+    margin: 20px auto;
+    width: 150px; /* Ajusta según sea necesario */
+    height: auto;
+    border-radius: 50%; /* Imagen redonda */
+}
+
+.info-page {
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    background-color: #000000; /* Color oscuro */
+    color: #ffffff;
+    text-align: center;
+    padding: 10px;
+}
+.small-img {
+    max-width: 70%; /* Ajusta el tamaño de la imagen al 70% de su tamaño original */
+    height: auto; /* Mantén la proporción de la imagen */
+}
